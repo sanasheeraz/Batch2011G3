@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UIControls</string>
+    <string-array name="cities">
+        <item>Karachi</item>
+        <item>Lahore</item>
+        <item>Islamabad</item>
+        <item>Larkana</item>
+    </string-array>
+</resources>
